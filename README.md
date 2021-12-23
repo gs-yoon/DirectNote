@@ -1,0 +1,2 @@
+# DirectNote
+Easy Writing Note
